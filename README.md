@@ -1,3 +1,3 @@
 # DEMO
 1st DEMO REPO
-Author : Parthsarthi Singh
+Author : Parthsarthi Singh (IITD)
